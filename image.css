@@ -1,0 +1,32 @@
+.logo {
+    text-align: center;
+    margin-top: 130px;
+    margin-bottom: 25px;
+}
+
+.form {
+    text-align: center;
+}
+
+.search {
+    border-radius: 30px;
+    height: 20px;
+    margin: 0 auto;
+    width: 575px;
+    border: 1px solid #dcdcdc;
+    outline: none;
+    padding: 23px;
+}
+
+.search:hover {
+    box-shadow: 1px 1px 8px 1px #dcdcdc;
+}
+
+.buttons {
+    margin-top: 30px;
+}
+
+.buttons>input {
+    font-size: small;
+    margin-left: 10px;
+}
