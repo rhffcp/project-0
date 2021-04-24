@@ -3,7 +3,7 @@
 ![Index Screenshot](screenshot.png)
 
 ## Description
-This project is a front-end replication of Google Search, Google Image Search, and Google Advanced Search using only HTML and CSS. It follows all the requirements of [CS50W's Search](https://cs50.harvard.edu/web/2020/projects/0/search/) project, plus additional customization.
+This project is a front-end replication of Google Search, Google Image Search, and Google Advanced Search using only HTML and CSS.
 
 - On the Google Search page, there are two links on the upper-right that direct the user to the Image Search and Advanced Search pages. On the other two pages, the link in the upper-right goes back to Google Search.
 
